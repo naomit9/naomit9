@@ -1,4 +1,6 @@
 ### naomit9
+![](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+
 
 <h1 align="center">Hi there 👋, I'm Naomi</h1>
 <h3 align="center">A passionate frontend developer based in Toronto</h3>
