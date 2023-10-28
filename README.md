@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naomit9&label=Profile%20views&color=0e75b6&style=flat" alt="naomit9" /> </p>
 
-💃 I’m a web developer, a seasonal yogi, and a former ESL teacher, who loves Korean BBQ and drinking cocktails
+💃 I’m a web developer, a seasonal yogi, and a former ESL teacher, who loves Korean BBQ 🍖 and a good gin and tonic 🍸
 
 🌱 I’m currently learning **SQL, C#ASP.NET, PHP, GitHub** while sharpening my skills in **HTML, CSS, JavaScript**
 
