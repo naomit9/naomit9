@@ -10,7 +10,7 @@
 
 💃 I’m a web developer, a seasonal yogi, and a former ESL teacher, who loves Korean BBQ 🍖 and a good gin and tonic 🍸
 
-🌱 I’m currently learning **SQL, C#ASP.NET, PHP, GitHub** while sharpening my skills in **HTML, CSS, JavaScript**
+🌱 I’m currently learning **SQL, C#ASP.NET, PHP** while sharpening my skills in **HTML, CSS, JavaScript**
 
 📝 I ~~regularly~~ write articles on [https://medium.com/@naomit](https://medium.com/@naomit)
 
@@ -20,7 +20,7 @@
 
 😄 Pronouns: she/her
 
-⚡ Fun fact **Despite being a terrible dancer and singer, I had participated in two dance showcases and two singing talent shows**
+⚡ Fun fact **I teach yoga at [Kula Yoga Studio](https://mykula.org/) in The Annex**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
