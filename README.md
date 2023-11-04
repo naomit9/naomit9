@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Naomi</h1>
-<h3 align="center">A passionate frontend developer based in Toronto</h3>
+<h3 align="center">A passionate front-end developer based in Toronto</h3>
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naomit9&label=Profile%20views&color=0e75b6&style=flat" alt="naomit9" /> </p>
