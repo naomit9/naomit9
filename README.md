@@ -20,7 +20,7 @@
 
 😄 Pronouns: she/her
 
-⚡ Fun fact **I teach yoga at [Kula Yoga Studio](https://mykula.org/) in The Annex**
+⚡ Fun fact **I teach yoga at [Kula Yoga Studio](https://mykula.org/) in The Annex** and I play the piano 🎹
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
