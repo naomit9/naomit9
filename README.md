@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there 👋, I'm Naomi</h1>
 <h3 align="center">A passionate front-end developer based in Toronto</h3>
-<img align="center" alt="Coding" width="50" src="https://i.pinimg.com/originals/4d/f9/61/4df9610f0039c5f5116aa2f77a357259.gif">
+<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/4d/f9/61/4df9610f0039c5f5116aa2f77a357259.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naomit9&label=Profile%20views&color=0e75b6&style=flat" alt="naomit9" /> </p>
 
