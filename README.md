@@ -30,6 +30,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![HTML](https://img.shields.io/badge/logo-html-orange?logo=html)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naomit9&show_icons=true&locale=en&layout=compact" alt="naomit9" /></p>
 
