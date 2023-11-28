@@ -27,11 +27,15 @@
 <a href="https://medium.com/@naomit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@naomit" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Front-end:</h3>
 
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
-![HTML](https://img.shields.io/badge/logo-html-orange?logo=html)
+![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 
+<h3 align="left">Back-end:</h3>
+
+<h3 align="left">Others:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naomit9&show_icons=true&locale=en&layout=compact" alt="naomit9" /></p>
 
