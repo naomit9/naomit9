@@ -36,6 +36,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![Pug](https://img.shields.io/badge/-Pug-05122A?style=flat&logo=pug)
 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
