@@ -9,7 +9,7 @@
 
 💃 I’m a web developer, a seasonal yogi, and a former ESL teacher, who loves Korean BBQ 🍖 and a good gin and tonic 🍸
 
-🌱 I’m currently learning **SQL, C#ASP.NET, PHP** while sharpening my skills in **HTML, CSS, JavaScript**
+🌱 I’m currently learning **C#ASP.NET, PHP** while sharpening my skills in **JavaScript**
 
 📝 I ~~regularly~~ write articles on [https://medium.com/@naomit](https://medium.com/@naomit)
 
@@ -29,16 +29,21 @@
 
 <h3 align="left">Languages and Tools 🛠️</h3>
 
+
 ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)
+![TailWindCSS](https://img.shields.io/badge/-TailWindCSS-05122A?style=flat&logo=tailwindcss)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)
 ![Pug](https://img.shields.io/badge/-Pug-05122A?style=flat&logo=pug)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=asp.net)
 
