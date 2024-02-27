@@ -30,28 +30,20 @@
 <h3 align="left">Languages and Tools 🛠️</h3>
 
 
-![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-F7DF1E?style=flat&logo=express&logoColor=white)
+![Pug.js](https://img.shields.io/badge/Pug.js-61DAFB?style=flat&logo=pug&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-0081CB?style=flat&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0081CB?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-339933?style=flat&logo=sql&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-E34F26?style=flat&logo=wordpress&logoColor=white)
 
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)
-![TailWindCSS](https://img.shields.io/badge/-TailWindCSS-05122A?style=flat&logo=tailwindcss)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-05122A?style=flat&logo=nodejs)
-![Pug](https://img.shields.io/badge/-Pug-05122A?style=flat&logo=pug)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=asp.net)
-
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naomit9&show_icons=true&locale=en&layout=compact" alt="naomit9" /></p>
 
