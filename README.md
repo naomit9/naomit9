@@ -9,7 +9,7 @@
 
 💃 I’m a web developer, a seasonal yogi, and a former ESL teacher, who loves Korean BBQ 🍖 and a good gin and tonic 🍸
 
-🌱 I’m currently learning **C#ASP.NET, PHP** while sharpening my skills in **JavaScript**
+🌱 I’m currently learning **C#ASP.NET, PHP and Laravel** while sharpening my skills in **React and TypeScript**
 
 📝 I ~~regularly~~ write articles on [https://medium.com/@naomit](https://medium.com/@naomit)
 
@@ -31,18 +31,22 @@
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-F7DF1E?style=flat&logo=express&logoColor=white)
-![Pug.js](https://img.shields.io/badge/Pug.js-61DAFB?style=flat&logo=pug&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-0081CB?style=flat&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0081CB?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-339933?style=flat&logo=sql&logoColor=white)
-![Wordpress](https://img.shields.io/badge/Wordpress-E34F26?style=flat&logo=wordpress&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-47A248?style=flat&logo=typescript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-F7DF1E?style=flat&logo=express&logoColor=black)
+![Pug.js](https://img.shields.io/badge/Pug.js-61DAFB?style=flat&logo=pug&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=black)  <br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=black)
+![SASS](https://img.shields.io/badge/SASS-0081CB?style=flat&logo=sass&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=black) <br/>
+![PHP](https://img.shields.io/badge/PHP-0081CB?style=flat&logo=php&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-1572B6?style=flat&logo=laravel&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-339933?style=flat&logo=sql&logoColor=black)
+![Wordpress](https://img.shields.io/badge/Wordpress-E34F26?style=flat&logo=wordpress&logoColor=black) <br/>
+![C# ASP.NET](https://img.shields.io/badge/C%23%20ASP.NET-512BD4?style=flat&logo=.net&logoColor=black)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naomit9&show_icons=true&locale=en&layout=compact" alt="naomit9" /></p>
