@@ -38,6 +38,7 @@
 <h4>Back-end</h4>
 
 ![PHP](https://img.shields.io/badge/PHP-7B7FB5?style=flat&logo=php&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=black)
 ![C# ASP.NET](https://img.shields.io/badge/C%23%20ASP.NET-A277DA?style=flat&logo=.net&logoColor=black)
 
 <h4>Libraries and Framworks</h4>
@@ -48,7 +49,6 @@
 ![Pug.js](https://img.shields.io/badge/Pug.js-61DAFB?style=flat&logo=pug&logoColor=black) <br/>
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0BB6D3?style=flat&logo=tailwind-css&logoColor=black) 
-![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=materialui&logoColor=black) <br/>
 
 <h4>Database</h4>
 
